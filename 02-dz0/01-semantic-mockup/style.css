@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    color: white;
+    text-align: center;
+}
+
+.header {
+    background-color: red;
+    margin: 0;
+}
+
+h1 {
+    padding: 5px;
+    margin: 0;
+    font-size: 30px;
+}
+
+.main-nav {
+    background-color: orange;
+    padding: 5px;
+}
+.nav-list {
+    list-style: none;
+    margin: 0;
+}
+
+.nav-item{
+    display: inline-block;
+    padding: 15px;
+    font-size: 25px;
+}
+
+.nav-item a {
+    color: white;
+    
+}
+.main {
+    background-color: green;
+    padding: 15px;
+}
+.article {
+    background-color: blue;
+    text-align: left;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+.two {
+    margin-bottom: 0;
+}    
+.footer {
+    background-color: purple;
+    padding: 10px;
+    font-size: 28px;
+}
+
+h3 {
+    margin: 0;
+}
