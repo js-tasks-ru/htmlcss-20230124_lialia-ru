@@ -1,1 +1,32 @@
 /* Стилизация аккордеона */
+body {
+    font-family: Inter;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: left;
+    color: #212429;
+
+}
+
+.container {
+    max-width: 730px;
+}
+
+.accordion__item {
+    margin-bottom: 8px;
+}
+
+.accordion__item:last-child {
+    margin-bottom: 0;
+}
+
+.accordion__summary {
+    border: 1px solid #ACB5BD;
+
+}
+.accordion__summary::-webkit-details-marker {  /* нестандартный псевдоэлемент Google Chrome */
+    display: none;
+}
+    
+
