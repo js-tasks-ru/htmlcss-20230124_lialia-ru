@@ -7,9 +7,10 @@
     border-radius: 8px;
     text-align: center;
     color: var(--white);
-    padding: 14px 60px 14px 60px;
+    padding: 15px 60px 14px 60px;
     cursor: pointer;
     transition: opacity 200ms ease-in-out, background 200ms ease-in-out;
+    border: none;
 }
 
 .button_primary {
