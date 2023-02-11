@@ -1,8 +1,3 @@
-.conteiner-skeleton {
-    width: 579px;
-    height: 192px;
-}
-
 .skeleton {
     border: 1px solid var(--grey-3);
     border-radius: 8px;
